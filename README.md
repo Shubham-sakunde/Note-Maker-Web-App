@@ -41,4 +41,11 @@ Project Structure
 
 -  The project follows a clean and simple structure, focusing on the core functionality of note creation and management.
 
--  ![Note Maker Web App Ui](https://github.com/Shubham-sakunde/Note-Maker-Web-App/assets/98804207/f0662c68-4ac7-446c-b582-3b36ec9a12ef)
+- ![Screenshot 2024-02-04 193502](https://github.com/Shubham-sakunde/Note-Maker-Web-App/assets/98804207/c99a082e-8f18-4774-ac32-a33b0386ee98)
+ - 
+ ![Screenshot 2024-02-04 193558](https://github.com/Shubham-sakunde/Note-Maker-Web-App/assets/98804207/b0872b20-78fd-4a50-8989-d5b842b5b2ab)
+
+![Screenshot 2024-02-04 193706](https://github.com/Shubham-sakunde/Note-Maker-Web-App/assets/98804207/63ff895f-2464-4211-b198-b144f4e02cbc)
+
+![Screenshot 2024-02-04 193520](https://github.com/Shubham-sakunde/Note-Maker-Web-App/assets/98804207/739fa91b-abe7-43c1-853e-d86de768beb8)
+
