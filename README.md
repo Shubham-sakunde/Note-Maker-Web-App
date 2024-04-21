@@ -8,7 +8,6 @@ The main features of the Note Maker web app include:
 - **View All Notes:** Access a list of all your saved notes.
 - **Edit Notes:** Make changes to your existing notes effortlessly.
 - **Delete Notes:** Remove unwanted notes with a simple delete function.
-
  Technologies Used
 
  Front-End Development
